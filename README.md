@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=HyeminShin&fontSize=70&animation=twinkling&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=HyeminShin&fontSize=70&animation=twinkling&fontAlignY=40)
 
 <p align="center">🇰🇷</p>
 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=Postgresql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node-dot-js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
 </p>
