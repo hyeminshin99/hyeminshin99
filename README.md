@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=HyeminShin&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=HyeminShin&fontSize=70&animation=twinkling&fontAlign=70&fontAlignY=40)
 
 <p align="center">🇰🇷</p>
 
