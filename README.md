@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyeminShin&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HyeminShin&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷</p>
 
@@ -25,13 +25,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=Postgresql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Nodejs&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
-- 📫 hyemin9974@gmail.com <a href="mailto:hyemin9974@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyemin9974@gmail.com"/></a>
+<p align="center"> 📫 hyemin9974@gmail.com <a href="mailto:hyemin9974@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyemin9974@gmail.com"/></a> </p>
 
 <br><br>
 <h3 align="center"> 🍋  Me 🍋 </h3>
@@ -42,6 +42,7 @@
   <br>
   😀😛😆🤩 / 👩‍💻 / 🎮🎲🎧🎥 / 📖🖋🔉 / 🐱🐾 / 🥐🥨🍻🍷🍾 / 👻🤖 🎢🎭 / 🍂☃🌠🌊
 </p>
+<br>
 <br>
 
 <p align="center">
