@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=HyeminShin&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyeminShin&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷</p>
 
@@ -21,9 +21,8 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <br>
-  
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=Postgresql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=Postgresql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Nodejs&logoColor=white"/></a>&nbsp 
@@ -31,6 +30,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
 </p>
 
+<br>
 - 📫 hyemin9974@gmail.com <a href="mailto:hyemin9974@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyemin9974@gmail.com"/></a>
 
 <br><br>
